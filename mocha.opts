@@ -1,0 +1,5 @@
+src/**/*.test.js
+--exit
+--require=babel-register.js
+--require=mocha.setup.js
+--ui=tdd
